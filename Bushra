@@ -737,7 +737,7 @@ def pilih_super():
 	p.map(main, id)
 #Dev: Shadow Hacker iam bushra friendz with combination
         print "\033[1;97m•-----------------\033[1;37mits abi hacker bushra cyber exprt\033[1;97m-----------------•"
-	print '\033[1;97m[+]\033[1;47m \033[1;31mProcess Has Been Completed\033[1;0m' Bushra say thanks for using my command
+	print '\033[1;97m[+]\033[1;47m \033[1;31mProcess Has Been Completed\033[1;0m'
 	print"\033[1;97m[+]\033[1;97mTotal \033[1;97mOK/\x1b[1;97mCP \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;97m"+str(len(cekpoint))
 	print "\033[1;97m«-----------------\033[1;37mhacker\033[1;97m-----------------»"
 	print """

